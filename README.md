@@ -1,7 +1,7 @@
 # Object Switcher
 ### Cinema 4D Python Plugin
 
-![objectswitcher](https://raw.githubusercontent.com/safina3d/c4d-random-color/master/RandomColor/res/color.tif")
+![objectswitcher](https://github.com/safina3d/c4d-object-switcher/blob/master/ObjectSwitcher/res/objectswitcher.png "Object Switcher - Cinema 4D Python Plugin")
 
 - Enable, disable and change visibility of one or multiple objects just by one click
 
