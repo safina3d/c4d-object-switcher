@@ -1,3 +1,7 @@
+# Author: safina3d
+# Url: https://safina3d.blogspot.com
+# Repo: https://github.com/safina3d/c4d-object-switcher
+
 import os
 import c4d
 from c4d import gui, documents, plugins
